@@ -1,0 +1,44 @@
+.flex-container {
+   width: 400px;
+   text-align: center;
+   margin: 0 auto;
+   padding: 20px;
+   background-color: black;
+   
+   
+}
+
+
+#cronometro,#reloj{
+    background-color: white;
+    width: 100px;
+    margin: 0 auto 20px auto;
+    padding: 10px;
+    font-family: sans-serif;
+    color: black;
+    font-size: 1.3em;
+
+}
+
+
+body{
+    font-family: Arial;
+    color: white;
+    background-size: cover;
+    background-image: url(forrestgump.jpg.jpg);
+}
+
+.flex-container{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+.text{
+    position: absolute; 
+    bottom: 3%; 
+    width: 700px;
+    height: 10px;
+    color: black;
+    margin: 10%   auto;
+
+}
